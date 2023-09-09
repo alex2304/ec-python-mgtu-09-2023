@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
+.DS_Store
+.Trashes
+._*
+
+# Pycharm
+.idea
+
+# Python
+**/__pycache__/
+
+# IPython Notebook
+**/.ipynb_checkpoints
